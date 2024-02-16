@@ -1,0 +1,4 @@
+hug==2.6.1
+mysql-connector-python==8.2.0
+python-dotenv==1.0.0
+sentry-sdk==1.39.1
